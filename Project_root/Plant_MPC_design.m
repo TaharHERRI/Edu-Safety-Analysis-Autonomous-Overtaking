@@ -82,8 +82,8 @@ x0.Noise       = zeros(size(x0.Noise));
 % idx = findClosestLaneWidth(y0_AVa);
 % waypoints_AVa = waypoints_AVa_curved{idx};
 % waypoints_AVb = waypoints_AVb_curved{idx};
-waypoints_AVa = waypoints_AVa_straight{idx};
-waypoints_AVb = waypoints_AVb_straight{idx};
+% waypoints_AVa = waypoints_AVa_straight{idx};
+% waypoints_AVb = waypoints_AVb_straight{idx};
 
 fault_injection = uint8(0);
 % fault_injection = uint8(1);   % pour activer
