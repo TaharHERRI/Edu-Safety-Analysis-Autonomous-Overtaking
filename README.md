@@ -21,6 +21,17 @@ The main purpose of the repo is to **document the project** and encourage the re
 If you only read one document, read the **Final Report**. This README is only a quick entry point.
 
 ---
+## Repository structure
+
+```text
+.
+├── Docs/          # Project proposal and final report (PDF)
+├── Project_root/  # MATLAB / Simulink project
+├── figures/       # Figures used in the report and README
+├── README.md
+```
+
+---
 
 ## Project summary
 
@@ -139,3 +150,10 @@ For the full reasoning and the detailed comparison with the paper’s figures, s
 ## Author
 
 **Tahar Herri** — McMaster University (CAS 781) & Grenoble INP ESISAR
+
+---
+
+## Reference paper
+
+- J. D’Souza, K. J. Burnham, and J. E. Pickering, *An Investigation into the Safety of Autonomous Vehicles on Highways with Reduced Lane Widths*, Proceedings of the 10th International Conference on Control, Decision and Information Technologies (CoDIT), 2024. DOI: `10.1109/CoDIT62066.2024.10708388`
+---
